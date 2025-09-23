@@ -6,7 +6,8 @@
 
 ## 👨‍💻 Sobre mim
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** e **Técnico em Automação Industrial**  
-- 🧪 5 anos de experiência em laboratório de mecânica desenvolvendo **softwares de testes e análise de dados**  
+- 🧪 5 anos de experiência em laboratório de mecânica desenvolvendo **softwares de testes e análise de dados**
+- 👨‍🏫 **1 ano de experiência como professor** de Desenvolvimento de Sistemas e Robótica  
 - 📊 Experiência com **dashboards no Google Looker** e análise de dados em Python  
 - 🤖 Professor de **Robótica e IoT**, com foco em **aprendizagem baseada em projetos**  
 - ⚡ Projetos pessoais envolvendo **IoT, robótica móvel e simulações no CoppeliaSim**  
@@ -19,41 +20,16 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![CoppeliaSim](https://img.shields.io/badge/-CoppeliaSim-FF6F00?style=for-the-badge&logoColor=white)
 ![Oracle APEX](https://img.shields.io/badge/-Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Fedora](https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-## ⚡ Stack
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-</p>
 
 
 ## 🚀 Projetos em Destaque
 
-- [🤖 ClaudioTheRobot](https://github.com/joaoluizbornelli/ClaudioTheRobot) – Robô aspirador com sensores IR, giroscópio e controle via Raspberry Pi  
-- [📡 IoT com MQTT](https://github.com/joaoluizbornelli/mqtt-demo) – Demonstração prática de IoT utilizando ESP32 e MQTT  
+- [🤖 ClaudioTheRobot](https://github.com/OProfJoao/ClaudioTheRobot) – Robô aspirador com sensores IR, giroscópio e controle via ESP32 e simulado no CoppeliaSim  
+- [📡 IoT com MQTT](https://github.com/OProfJoao/ESP_TRAIN_MQTT.git) – Demonstração prática de IoT utilizando ESP32 e MQTT em uma maquete de ferrovia 
 
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-
-![Snake animation](https://github.com/joaoluizbornelli/joaoluizbornelli/blob/output/github-contribution-grid-snake.svg)
-
-<!--
-**Joao-Bornelli/Joao-Bornelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaobornelli)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoluisbornelli@gmail.com)
