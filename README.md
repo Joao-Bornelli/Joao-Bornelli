@@ -1,16 +1,14 @@
 ## Olá 👋
 
-
-💻 Técnico de Laboratório | Professor de Desenvolvimento de Sistemas/Robótica 
-
+💻 Técnico de Laboratório | Professor de Desenvolvimento de Sistemas e Robótica
 
 ## 👨‍💻 Sobre mim
-- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** e **Técnico em Automação Industrial**  
-- 🧪 5 anos de experiência em laboratório de mecânica desenvolvendo **softwares de testes e análise de dados**
-- 👨‍🏫 **1 ano de experiência como professor** de Desenvolvimento de Sistemas e Robótica  
-- 📊 Experiência com **dashboards no Google Looker** e análise de dados em Python  
-- 🤖 Professor de **Robótica e IoT**, com foco em **aprendizagem baseada em projetos**  
-- ⚡ Projetos pessoais envolvendo **IoT, robótica móvel e simulações no CoppeliaSim**  
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** e **Técnico em Automação Industrial**
+- 🧪 **5 anos de experiência** em laboratório de mecânica desenvolvendo softwares de testes e análise de dados
+- 👨‍🏫 **1 ano como professor** de Desenvolvimento de Sistemas e Robótica
+- 📊 Experiência com **dashboards no Google Looker** e análise de dados em Python
+- 🤖 Especialista em **Robótica e IoT** com foco em aprendizagem baseada em projetos
+- ⚡ Desenvolvedor de projetos envolvendo **IoT, robótica móvel e simulações no CoppeliaSim**
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -21,13 +19,10 @@
 ![CoppeliaSim](https://img.shields.io/badge/-CoppeliaSim-FF6F00?style=for-the-badge&logoColor=white)
 ![Oracle APEX](https://img.shields.io/badge/-Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-
-
 ## 🚀 Projetos em Destaque
 
-- [🤖 ClaudioTheRobot](https://github.com/OProfJoao/ClaudioTheRobot) – Robô aspirador com sensores IR, giroscópio e controle via ESP32 e simulado no CoppeliaSim  
-- [📡 IoT com MQTT](https://github.com/OProfJoao/ESP_TRAIN_MQTT.git) – Demonstração prática de IoT utilizando ESP32 e MQTT em uma maquete de ferrovia 
-
+- [🤖 ClaudioTheRobot](https://github.com/OProfJoao/ClaudioTheRobot) – Robô aspirador com sensores IR, giroscópio e controle via ESP32, simulado no CoppeliaSim
+- [📡 IoT com MQTT](https://github.com/OProfJoao/ESP_TRAIN_MQTT.git) – Sistema de IoT utilizando ESP32 e MQTT em maquete ferroviária
 
 ## 📬 Contato
 
