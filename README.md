@@ -1,6 +1,8 @@
 ## Olá 👋
 
-💻 Técnico de Laboratório | Professor de Desenvolvimento de Sistemas e Robótica
+💻 Técnico de Laboratório | Professor de Desenvolvimento de Sistemas e Robótica  
+
+---
 
 ## 👨‍💻 Sobre mim
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** e **Técnico em Automação Industrial**
@@ -9,6 +11,8 @@
 - 📊 Experiência com **dashboards no Google Looker** e análise de dados em Python
 - 🤖 Especialista em **Robótica e IoT** com foco em aprendizagem baseada em projetos
 - ⚡ Desenvolvedor de projetos envolvendo **IoT, robótica móvel e simulações no CoppeliaSim**
+
+---
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -19,12 +23,26 @@
 ![CoppeliaSim](https://img.shields.io/badge/-CoppeliaSim-FF6F00?style=for-the-badge&logoColor=white)
 ![Oracle APEX](https://img.shields.io/badge/-Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+---
+
 ## 🚀 Projetos em Destaque
 
 - [🤖 ClaudioTheRobot](https://github.com/OProfJoao/ClaudioTheRobot) – Robô aspirador com sensores IR, giroscópio e controle via ESP32, simulado no CoppeliaSim
-- [📡 IoT com MQTT](https://github.com/OProfJoao/ESP_TRAIN_MQTT.git) – Sistema de IoT utilizando ESP32 e MQTT em maquete ferroviária
+- [📡 IoT com MQTT](https://github.com/OProfJoao/ESP_TRAIN_MQTT.git) – Sistema de IoT utilizando ESP32 e MQTT em maquete ferroviária  
+
+---
+
+## 📈 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OProfJoao&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OProfJoao&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=OProfJoao&theme=tokyonight)
+
+---
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaobornelli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaobornelli)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoluisbornelli@gmail.com)
+
+---
